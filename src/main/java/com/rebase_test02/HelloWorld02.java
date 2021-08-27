@@ -17,5 +17,6 @@ public class HelloWorld02 {
         System.out.println("master 新 分支第三次提交");
         System.out.println("master 新 分支第四次提交");
         System.out.println("master 新 分支第五次提交");
+        System.out.println("master 新 分支第六次提交");
     }
 }
